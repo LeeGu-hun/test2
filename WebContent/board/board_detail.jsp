@@ -4,6 +4,7 @@
 <%
 	BoardVO board = (BoardVO)request.getAttribute("board");
 %>
+<!-- test -->
 <!DOCTYPE html>
 <html lang="ko">
 <head>
